@@ -3,11 +3,11 @@
 
 ### AI-Based Mental Health Cognitive Risk Prediction Platform
 
-## 📌 About
+## About
 
 Serenova is an AI-based mental health cognitive risk prediction platform designed to support early identification of mental health-related cognitive risks.
 
-## ✨ Features
+## Features
 
 - Mental health assessment
 - Cognitive risk prediction
@@ -16,7 +16,7 @@ Serenova is an AI-based mental health cognitive risk prediction platform designe
 - Personalized results
 - Responsive design
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - React
 - TypeScript
