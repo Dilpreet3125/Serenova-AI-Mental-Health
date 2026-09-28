@@ -1,0 +1,26 @@
+[
+  {
+    "email": "mk07jaspreetsingh@gmail.com",
+    "password": "$2b$10$GamGTiVx.YfFZo0CuIsd1OFdssILpFxypmcDfMAQ6e07DvfwZdxey",
+    "name": "mk07jaspreetsingh",
+    "isNew": false
+  },
+  {
+    "email": "samridhimittu571@gmail.com",
+    "password": "$2b$10$f4/5V5YD4Ii1SZoWY0zrOeB2mP7e50n2XQnEE/oGUjLcj2jOtXw/S",
+    "name": "Sam",
+    "isNew": false
+  },
+  {
+    "email": "manroop.jp22@gmail.com",
+    "password": "$2b$10$OR7ReEjznOVlACw19nOahebFTKLMTtsbq/HeuUPwU648kEMFXoPW6",
+    "name": "Roop",
+    "isNew": false
+  },
+  {
+    "email": "dilpreetkaur3125@gmail.com",
+    "password": "$2b$10$lkGMdhTR5abaK5PN.RBbB.2RttskdlYBBRdeUE3.N6nnzKLG9lXHa",
+    "name": "dilpreet",
+    "isNew": false
+  }
+]
